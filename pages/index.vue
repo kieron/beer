@@ -2,9 +2,7 @@
 import { defineComponent } from "@vue/composition-api";
 
 export default defineComponent({
-  async setup(){
-  },
-
+  async setup() {},
 });
 </script>
 <template>
