@@ -1,8 +1,6 @@
 <template>
-  <div class="bg-slate-100">
-    <div class="w-full h-7 bg-amber-500 flex justify-center items-center">
-      <span class="text-gray-900 text-xs">🍺 soon.</span>
-    </div>
+  <div class="bg-amber-100 w-full h-screen">
+   <Navbar />
     <main class="p-6">
     <NuxtPage />
     </main>
