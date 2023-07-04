@@ -17,7 +17,7 @@
             />
           </div>
           <span
-            class="absolute left-0 top-0 z-10 ml-3 mt-3 inline-flex select-none rounded-lg bg-red-500 px-3 py-2 text-sm font-medium text-white"
+            class="absolute left-0 top-0 z-10 ml-3 mt-3 inline-flex select-none rounded-lg bg-amber-400 px-3 py-2 text-sm font-medium text-amber-950"
           >
             Featured
           </span>

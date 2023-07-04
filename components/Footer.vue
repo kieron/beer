@@ -39,69 +39,6 @@
               </li>
             </ul>
           </div>
-          <div>
-            <p class="font-semibold tracking-wide text-teal-accent-400">
-              Cherry
-            </p>
-            <ul class="mt-2 space-y-2">
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Web</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">eCommerce</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Business</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Entertainment</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Portfolio</a>
-              </li>
-            </ul>
-          </div>
-          <div>
-            <p class="font-semibold tracking-wide text-teal-accent-400">
-              Apples
-            </p>
-            <ul class="mt-2 space-y-2">
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Media</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Brochure</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Nonprofit</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Educational</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Projects</a>
-              </li>
-            </ul>
-          </div>
-          <div>
-            <p class="font-semibold tracking-wide text-teal-accent-400">
-              Business
-            </p>
-            <ul class="mt-2 space-y-2">
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Infopreneur</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Personal</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Wiki</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Forum</a>
-              </li>
-            </ul>
-          </div>
         </div>
       </div>
       <div class="flex flex-col justify-between pt-5 pb-10 border-t border-amber-200 sm:flex-row">

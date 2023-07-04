@@ -12,7 +12,7 @@
         >
        <Logo />
           <span
-            class="ml-2 text-xl font-bold tracking-wide text-amber-300 uppercase"
+            class="ml-2 text-xl font-bold tracking-wide text-amber-400 uppercase"
             >Louthbeer</span
           >
         </a>
@@ -21,7 +21,7 @@
           <li>
             <a
               href="/"
-              class="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-black transition duration-200 rounded shadow-md bg-amber-300 hover:bg-amber-400 focus:shadow-outline focus:outline-none"
+              class="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-black transition duration-200 rounded shadow-md bg-amber-400 hover:bg-amber-400 focus:shadow-outline focus:outline-none"
               aria-label="Find Beer"
               title="Find Beer"
             >
