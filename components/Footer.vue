@@ -8,7 +8,7 @@
         <div class="md:max-w-md lg:col-span-2">
           <a href="/" aria-label="Go home" title="Company" class="inline-flex items-center">
             <Logo />
-            <span class="ml-2 text-xl font-bold tracking-wide text-amber-950 uppercase">LouthBeer</span>
+            <span class="ml-2 text-xl font-bold tracking-wide text-amber-950 uppercase">Louth.beer</span>
           </a>
           <div class="mt-4 lg:max-w-sm">
             <p class="text-sm text-amber-950">

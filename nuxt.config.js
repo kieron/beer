@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     // Options
   },
   head: {
-    title: 'louthbeer',
+    title: 'Louth.beer',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

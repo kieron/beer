@@ -6,14 +6,14 @@
       <div class="relative flex items-center justify-between">
         <a
           href="/"
-          aria-label="Louthbeer"
-          title="Louthbeer"
+          aria-label="Louth.beer"
+          title="Louth.beer"
           class="inline-flex items-center"
         >
        <Logo />
           <span
             class="ml-2 text-xl font-bold tracking-wide text-amber-400 uppercase"
-            >Louthbeer</span
+            >Louth.beer</span
           >
         </a>
 
