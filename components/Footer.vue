@@ -1,5 +1,5 @@
 <template>
-  <div class="relative mt-16 bg-amber-400">
+  <div :class="['relative bg-amber-400', $route.path === '/' ? 'mt-16' : '']">
     <svg class="absolute top-0 w-full h-6 -mt-5 sm:-mt-10 sm:h-16 text-amber-400" preserveAspectRatio="none" viewBox="0 0 1440 54">
       <path fill="currentColor" d="M0 22L120 16.7C240 11 480 1.00001 720 0.700012C960 1.00001 1200 11 1320 16.7L1440 22V54H1320C1200 54 960 54 720 54C480 54 240 54 120 54H0V22Z"></path>
     </svg>
@@ -17,27 +17,6 @@
             <p class="mt-4 text-sm text-amber-950">
               Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
             </p>
-          </div>
-        </div>
-        <div class="grid grid-cols-2 gap-5 row-gap-8 lg:col-span-4 md:grid-cols-4">
-          <div>
-            <p class="font-semibold tracking-wide text-teal-accent-400">
-              Category
-            </p>
-            <ul class="mt-2 space-y-2">
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">News</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">World</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">Games</a>
-              </li>
-              <li>
-                <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">References</a>
-              </li>
-            </ul>
           </div>
         </div>
       </div>
@@ -61,15 +40,14 @@
               ></path>
             </svg>
           </a>
-          <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">
-            <svg viewBox="0 0 24 24" fill="currentColor" class="h-5">
-              <path
-                d="M22,0H2C0.895,0,0,0.895,0,2v20c0,1.105,0.895,2,2,2h11v-9h-3v-4h3V8.413c0-3.1,1.893-4.788,4.659-4.788 c1.325,0,2.463,0.099,2.795,0.143v3.24l-1.918,0.001c-1.504,0-1.795,0.715-1.795,1.763V11h4.44l-1,4h-3.44v9H22c1.105,0,2-0.895,2-2 V2C24,0.895,23.105,0,22,0z"
-              ></path>
-            </svg>
-          </a>
         </div>
       </div>
     </div>
   </div>
 </template>
+
+<script setup>
+import { useRoute } from 'vue-router';
+
+const route = useRoute();
+</script>
