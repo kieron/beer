@@ -1,6 +1,6 @@
 <script setup>
 const { data: pubs } = await useAsyncData('pubs', () => {
-  return queryContent('dir').find()
+  return queryContent().find()
 })
 </script>
 

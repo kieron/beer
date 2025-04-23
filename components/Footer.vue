@@ -12,17 +12,17 @@
           </a>
           <div class="mt-4 lg:max-w-sm">
             <p class="text-sm text-amber-950">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+              Discover the best pubs in Louth, Lincolnshire. From traditional alehouses to modern gastropubs.
             </p>
             <p class="mt-4 text-sm text-amber-950">
-              Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+              Find the perfect spot for a pint, a meal, or a night out with friends and family.
             </p>
           </div>
         </div>
       </div>
       <div class="flex flex-col justify-between pt-5 pb-10 border-t border-amber-200 sm:flex-row">
         <p class="text-sm text-amber-950">
-          © Copyright 2023 Kieron. All rights reserved.
+          © Copyright 2024 Louth.beer. All rights reserved.
         </p>
         <div class="flex items-center mt-4 space-x-4 sm:mt-0">
           <a href="/" class="transition-colors duration-300 text-amber-950 hover:text-amber-600">
